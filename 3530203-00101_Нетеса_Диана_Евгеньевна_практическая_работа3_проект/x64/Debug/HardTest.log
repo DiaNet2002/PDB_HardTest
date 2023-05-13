@@ -1,0 +1,6 @@
+﻿  Algorithms.cpp
+  Graph.cpp
+  HardTest.cpp
+C:\Users\Ноутбук\Desktop\1\3530203-00101_Нетеса_Диана_Евгеньевна_практическая_работа3_проект\HardTest.cpp(13,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  HardTest.vcxproj -> C:\Users\Ноутбук\Desktop\1\3530203-00101_Нетеса_Диана_Евгеньевна_практическая_работа3_проект\x64\Debug\HardTest.exe
